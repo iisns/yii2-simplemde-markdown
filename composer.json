@@ -1,0 +1,21 @@
+{
+    "name": "iisns/yii2-simplemde-markdown",
+    "description": "yii2-simplemde-markdown",
+    "type": "yii2-extension",
+    "keywords": ["yii2","markdown","simplemde","editor","iisns"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shiyang",
+            "email": "dr@shiyang.me"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "iisns\\markdown\\": ""
+        }
+    }
+}
